@@ -27,9 +27,9 @@ This simple React Native app allows users to pick an image from their device's m
 - Conditional rendering
 - Integration with device features using Expo libraries
 
-## 🖼️ Screenshots
+ 
 
-*(Add your app screenshots here)*
+ 
 
 ## 📦 Installation
 
